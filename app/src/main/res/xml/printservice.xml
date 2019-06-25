@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<print-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:vendor="example"
+
+    >
+</print-service>
+
+    <!--android:settingsActivity="com.example.hannto.printtest.SettingsActivity"-->
+    <!--android:addPrintersActivity="com.example.hannto.printtest.AddPrintersActivity"-->
+    <!--android:advancedPrintOptionsActivity="com.example.hannto.printtest.AdvancedPrintOptionsActivity"-->
